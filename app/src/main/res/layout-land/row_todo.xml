@@ -13,6 +13,7 @@
         android:layout_marginStart="30sp"
         android:fontFamily="cursive"
         android:text="textview"
+        android:textColor="@android:color/black"
         android:textSize="30sp"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
@@ -26,11 +27,12 @@
     <CheckBox
         android:id="@+id/checkBox"
         android:layout_width="wrap_content"
-        android:focusable="false"
-        android:clickable="false"
-        android:layout_marginEnd="30sp"
         android:layout_height="wrap_content"
-        android:text=""/>
+        android:layout_marginEnd="30sp"
+        android:buttonTint="@color/colorPrimaryDark"
+        android:clickable="false"
+        android:focusable="false"
+        android:text="" />
 
 
 </LinearLayout>

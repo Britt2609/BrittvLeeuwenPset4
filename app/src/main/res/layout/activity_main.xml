@@ -38,8 +38,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="cursive"
+                android:ems="8"
                 android:hint="To Do"
                 android:inputType="textPersonName"
+                android:textColor="@android:color/black"
                 android:textSize="24sp" />
 
             <TextView
@@ -51,8 +53,10 @@
                 android:id="@+id/add"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorPrimaryDark"
                 android:fontFamily="cursive"
                 android:text="add"
+                android:textColor="@android:color/black"
                 android:textSize="24sp"
                 tools:layout_editor_absoluteX="280sp"
                 tools:layout_editor_absoluteY="435sp" />

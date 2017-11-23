@@ -13,6 +13,7 @@
         android:layout_marginStart="30sp"
         android:fontFamily="cursive"
         android:text="textview"
+        android:textColor="@android:color/black"
         android:textSize="30sp"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
