@@ -5,5 +5,5 @@ If the user types text into a bottom input field and clicks an Add button, the n
 Of course, users are be able to mark items as “done”, and delete them as well!
 The app works in normal view and landscape view, as shown below in the screenshots.
 
-![screenshot app](doc/Screenshot_20171123-121645.jpeg)
+![screenshot app](doc/Screenshot_20171123-121645.png)
 ![screenshot app](doc/screenshot2.jpeg)
